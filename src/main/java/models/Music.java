@@ -8,6 +8,7 @@ public class Music implements Serializable {
     private String author;
     private int year;
 
+
     public Music() {
     }
 
